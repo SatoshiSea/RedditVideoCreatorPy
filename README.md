@@ -11,7 +11,7 @@ r/askreddit subreddit, and grabbing several comments. The workflow of this progr
 python -m venv path\to\venv
 ```
 
-:: Activate the virtual environment (on macOS/Linux)
+:: Activate the virtual environment
 
 ```bash
 path\to\venv\Scripts\activate
