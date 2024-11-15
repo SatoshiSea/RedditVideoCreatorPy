@@ -1,0 +1,8 @@
+moviepy 
+praw 
+selenium 
+markdown 
+beautifulsoup4 
+pillow==9.0.0
+TTS --use-feature=2020-resolver
+pyttsx3
