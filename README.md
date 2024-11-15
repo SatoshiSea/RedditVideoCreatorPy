@@ -8,19 +8,19 @@ r/askreddit subreddit, and grabbing several comments. The workflow of this progr
 :: Create a virtual environment in the specified path
 
 ```bash
-python3 -m venv path/to/venv
+python -m venv path\to\venv
 ```
 
 :: Activate the virtual environment (on macOS/Linux)
 
 ```bash
-source path/to/venv/bin/activate
+path\to\venv\Scripts\activate
 ```
 
 :: Install the library, which is used for audio manipulation and more
 
 ```bash
-pip3 install -r requirements.txt
+pip install -r requirements.txt
 ```
 
 :: Run this script to create the necessary folders with
