@@ -29,12 +29,6 @@ pip install -r requirements.txt
 python create.py
 ```
 
-:: Run the script with
-
-```bash
-python create.py
-```
-
 - Make a copy of config.example.ini and rename to config.ini
 - Register with Reddit to create an application [here](https://www.reddit.com/prefs/apps/) and copy the credentials
 - Use the credentials from the previous step to update config.ini (lines 22 -> 24)
